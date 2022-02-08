@@ -1,2 +1,2 @@
 # volunteer-data-scripts
-Scripts for data management from volunteer projects
+Data management scripts from volunteer projects
